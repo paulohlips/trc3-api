@@ -3,3 +3,5 @@
 ### See it in action
 
 \$ yarn
+
+\$ yarn dev
