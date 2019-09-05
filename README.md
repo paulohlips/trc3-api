@@ -1,1 +1,5 @@
-trc3-api
+# TRC3 - API
+
+### See it in action
+
+\$ yarn
